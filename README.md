@@ -1,2 +1,2 @@
 # Data-disclosure
-Some of the negotiated data is open source
+Here is part of the open source of the data set used in the paper OrbitWatch. YN and IN represent current data, and VN represents voltage data.
